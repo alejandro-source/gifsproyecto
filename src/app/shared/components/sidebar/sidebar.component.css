@@ -39,3 +39,10 @@
 .sidebar ul li a:hover {
     background-color: #34495e;
 }
+
+.list-group-item.active {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+  }
+  
